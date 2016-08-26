@@ -32,7 +32,7 @@
     这是一个有多行的文本框
     你可以写入代码等,每行文字只要输入两个Tab再输入文字即可
     这里你可以输入一段代码
-
+    test
 ### 比如我们可以在多行文本框里输入一段代码,来一个Java版本的HelloWorld吧
     public class HelloWorld {
 
@@ -53,7 +53,7 @@
 ###只是显示百度的图片
 ![baidu-images](http://www.baidu.com/img/bdlogo.png "baidu")  
 
-###只是显示图片，这里用的是相对路径
+###只是显示图片，这里用的是相对路径 
 ![github-01.jpg](/images/01.jpg "github-01.jpg")
 
 ### 显示图片也可以用原生的html标签
